@@ -21,6 +21,18 @@ function helloWorld() {
 }
 
 
+function helloWorld2() {
+	console.log("---------")
+	console.log("---------")
+	console.log("---------")
+	console.log("hello world")
+	console.log("---------")
+	console.log("---------")
+	console.log("---------")
+}
+
 
 main()
 helloWorld()
+helloWorld2()
+
